@@ -11,16 +11,21 @@ This repo is a sample project showing off a crash that occurs in GoogleTagManage
 
 ## Setup
 
+All frameworks are included in the repo, all that's needed is to add each dependencies needed configuration.
+
 ### Firebase
-Add the `GoogleService-Info.plist` file to the project
+Add the `GoogleService-Info.plist` file to the project.
+
 https://firebase.google.com/docs/ios/setup#add-config-file
 
 ### GoogleTagManger
-Add your contains to the project. Steps 2-4 in the link below.
+Add your container to the project. Steps 2-4 in the link below.
+
 https://developers.google.com/tag-platform/tag-manager/ios/v5#1_add_tag_manager_to_your_project
 
 ### GoogleMaps
 Add your GoogleMaps API key into `GoogleService-Info.plist` with the key `GOOGLE_MAPS_API_KEY`.
+
 https://developers.google.com/maps/documentation/ios-sdk/config#install-the-xcframework
 
 ## Crash Details
