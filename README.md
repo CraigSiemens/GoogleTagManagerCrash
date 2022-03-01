@@ -4,10 +4,10 @@ This repo is a sample project showing off a crash that occurs in GoogleTagManage
 
 ## Filed Issues
 
-- https://github.com/firebase/firebase-ios-sdk/issues/9235
-- https://support.google.com/tagmanager/thread/139687964?hl=en
-- https://support.google.com/tagmanager/thread/146683947?hl=en
-- https://issuetracker.google.com/issues/209843433
+- [Firebase](https://github.com/firebase/firebase-ios-sdk/issues/9235)
+- GoogleTagManager [1](https://support.google.com/tagmanager/thread/139687964?hl=en) [2](https://support.google.com/tagmanager/thread/146683947?hl=en) [3](https://support.google.com/tagmanager/thread/152850774?hl=en)
+  - The issues don't get replies and are autolocked, I have to make a new issue to add more detail.
+- [GoogleMaps](https://issuetracker.google.com/issues/209843433)
 
 ## Setup
 
