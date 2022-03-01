@@ -41,9 +41,9 @@ Google tag manager crashes when handling the screen_view events (found by printi
 - Running Xcode using Rosetta fixes the issue, but the dependencies being XCFrameworks is supposed to remove the need for that.
 
 ### Versions
-Firebase - 8.12.1
-GoogleTagManager - 7.4.0
-GoogleMaps - 6.0.1-beta
+- Firebase - 8.12.1
+- GoogleTagManager - 7.4.0
+- GoogleMaps - 6.0.1-beta
 
 ### Stack Trace
 
